@@ -1,4 +1,4 @@
-﻿using static A03.Form1;
+﻿
 
 namespace A03
 {
